@@ -80,7 +80,8 @@ theme: next
 deploy:
   type:
 
-# Search
+# Local Search
+## Docs: http://theme-next.iissnan.com/third-party-services.html#local-search
 search:
 path: search.xml
 field: post
