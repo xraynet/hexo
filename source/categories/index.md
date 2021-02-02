@@ -2,4 +2,5 @@
 title: categories
 date: 2021-02-01 00:00:00
 type: categories
+comments: false
 ---

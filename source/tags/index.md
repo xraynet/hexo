@@ -2,4 +2,5 @@
 title: tags
 date: 2021-02-01 00:00:00
 type: tags
+comments: false
 ---
