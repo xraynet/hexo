@@ -604,7 +604,7 @@ valine:
   appkey: aUSj6Sk2Fzb5sqAjDOCnqbRr
   notify: false # Mail notifier
   verify: false # Verification code
-  placeholder: Enter # Comment box placeholder
+  placeholder: Enter... # Comment box placeholder
   avatar: "" # Gravatar style
   guest_info: nick,mail,link # Custom comment header
   pageSize: 10 # Pagination size
