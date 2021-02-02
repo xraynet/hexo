@@ -101,12 +101,17 @@ live2d:
   tagMode: false # 标签模式, 是否仅替换 live2d tag标签而非插入到所有页面中
   debug: false # 调试, 是否在控制台输出日志
   model:
-    scale: 1
     # use: live2d-widget-model-wanko # npm-module package name
     # use: wanko # 博客根目录/live2d_models/ 下的目录名
     # use: ./wives/wanko # 相对于博客根目录的路径
     use: https://cdn.jsdelivr.net/npm/live2d-widget-model-koharu@1.0.5/assets/koharu.model.json # 你的自定义 url
   display:
     position: right
-    width: 180
-    height: 260
+    hOffset: 0
+    vOffset: -60
+  mobile:
+    show: true
+    scale: 0.6
+  # react:
+  #   opacityDefault: 0.7
+  #   opacityOnHover: 0.2
