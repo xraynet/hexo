@@ -1,5 +1,7 @@
 ---
 title: Hello World
+tags: test
+categories: test
 top: true
 ---
 
