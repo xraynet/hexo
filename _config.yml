@@ -108,5 +108,5 @@ live2d:
     use: https://cdn.jsdelivr.net/npm/live2d-widget-model-koharu@1.0.5/assets/koharu.model.json # 你的自定义 url
   display:
     position: right
-    width: 150
-    height: 300
+    width: 180
+    height: 260
