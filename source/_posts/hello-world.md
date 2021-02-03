@@ -1,48 +1,20 @@
 ---
 title: Hello World
-tags: test
-categories: test
+tags: Hello World
+categories: Hello World
 top: true
 ---
 
-![:name](https://count.getloli.com/get/@:name?theme=moebooru)
+![:name](https://count.getloli.com/get/@:name?theme=gelbooru)
 
 [^_^]: https://count.getloli.com/
 
 <!-- more -->
 
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
+![:name](https://count.getloli.com/get/@:name?theme=gelbooru-h)
 
-## Quick Start
+![:name](https://count.getloli.com/get/@:name?theme=moebooru)
 
-### Create a new post
+![:name](https://count.getloli.com/get/@:name?theme=moebooru-h)
 
-```bash
-$ hexo new "My New Post"
-```
-
-More info: [Writing](https://hexo.io/docs/writing.html)
-
-### Run server
-
-```bash
-$ hexo server
-```
-
-More info: [Server](https://hexo.io/docs/server.html)
-
-### Generate static files
-
-```bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-```bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/deployment.html)
+![:name](https://count.getloli.com/get/@:name?theme=rule34)
