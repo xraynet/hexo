@@ -347,7 +347,7 @@ codeblock:
   # Code Highlight theme
   # Available values: normal | night | night eighties | night blue | night bright | solarized | solarized dark | galactic
   # See: https://github.com/chriskempson/tomorrow-theme
-  highlight_theme: normal
+  highlight_theme: night
   # Add copy button on codeblock
   copy_button:
     enable: true
@@ -605,7 +605,7 @@ valine:
   notify: false # Mail notifier
   verify: false # Verification code
   placeholder: Enter... # Comment box placeholder
-  avatar: "" # Gravatar style
+  avatar: retro # Gravatar style
   guest_info: nick,mail,link # Custom comment header
   pageSize: 10 # Pagination size
   language: # Language, available values: en, zh-cn
