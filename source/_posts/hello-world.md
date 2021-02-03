@@ -5,16 +5,16 @@ categories: Hello World
 top: true
 ---
 
-![:name](https://count.getloli.com/get/@:name?theme=gelbooru)
+![:name](https://count.getloli.com/get/@demo?theme=gelbooru)
 
 [^_^]: https://count.getloli.com/
 
 <!-- more -->
 
-![:name](https://count.getloli.com/get/@:name?theme=gelbooru-h)
+![:name](https://count.getloli.com/get/@demo?theme=gelbooru-h)
 
-![:name](https://count.getloli.com/get/@:name?theme=moebooru)
+![:name](https://count.getloli.com/get/@demo?theme=moebooru)
 
-![:name](https://count.getloli.com/get/@:name?theme=moebooru-h)
+![:name](https://count.getloli.com/get/@demo?theme=moebooru-h)
 
-![:name](https://count.getloli.com/get/@:name?theme=rule34)
+![:name](https://count.getloli.com/get/@demo?theme=rule34)
