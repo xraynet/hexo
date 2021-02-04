@@ -3,6 +3,7 @@ title: Hello World
 tags: Hello World
 categories: Hello World
 top: true
+# sticky: 10
 ---
 
 ![:name](https://count.getloli.com/get/@demo?theme=gelbooru)
